@@ -1,0 +1,56 @@
+body{
+	text-align: center;
+	color: blue;
+}
+
+h3{
+	font-family: 'Tangerine', cursive;
+}
+p{
+	font-family: 'Tangerine', cursive;
+
+}	
+.caja1{
+	position: relative;
+	float: left;
+	width: 100px;
+	height: 200px;
+	border: 1px solid black;
+	background: pink;
+}
+.caja2{
+	position: relative;
+	float: left; 
+	width: 100px;
+	height: 200px;
+	border: 1px solid black;
+	background: pink;
+}
+.caja3{	
+	position: relative;
+	float: left; 
+	width: 100px;
+	height: 200px;
+	border: 1px solid black;
+	background: pink;
+}
+.caja4{
+	position: relative;
+	float: left; 
+	width: 100px;
+	height: 200px;
+	border: 1px solid black;
+	background: pink;
+}
+.caja5{	
+	position: relative;
+	float: left; 
+	width: 100px;
+	height: 200px;
+	border: 1px solid black;
+	background: pink;
+}
+i{
+	font-size: 10px;
+}
+
