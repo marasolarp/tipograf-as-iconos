@@ -11,50 +11,18 @@ p{
 	font-size: 10px;
 
 }	
-.caja1{
+.caja{
 	margin: 10px;
-
 	float: left;
 	width: 100px;
-	height: 120px;
+	height: 130px;
 	border: 1px solid transparent;
 	background: pink;
+	padding: 10px;
 }
-.caja2{
-	margin: 10px;
-	
-	float: left; 
-	width: 100px;
-	height: 120px;
-	border: 1px solid transparent;
-	background: pink;
+.fa{
+	font-size: 30px;
+	color: green;
 }
-.caja3{	
-	margin: 10px;
-	float: left; 
-	width: 100px;
-	height: 120px;
-	border: 1px groove black;
-	background: pink;
-}
-.caja4{
-	margin: 10px;
-	float: left; 
-	width: 100px;
-	height: 120px;
-	border: 1px solid transparent;
-	background: pink;
-}
-.caja5{	
-	margin: 10px;
-	
-	float: left; 
-	width: 100px;
-	height: 120px;
-	border: 1px solid transparent;
-	background: pink;
-}
-i{
-	font-size: 10px;
-}
+
 
